@@ -1,1 +1,3 @@
 Testando o repositório - uma alteração
+
+Outra linha no arquivo representando uma nova funcionalidade
