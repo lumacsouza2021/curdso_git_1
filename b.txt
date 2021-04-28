@@ -1,1 +1,3 @@
 Arquivo "B"
+
+Alterado para fazer uma nova funcionalidade
