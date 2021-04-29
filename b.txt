@@ -1,1 +1,3 @@
 Arquivo "B"
+
+Alteração feita para a segunda branch

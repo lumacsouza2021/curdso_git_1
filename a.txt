@@ -1,3 +1,5 @@
 Arquivo "A"
 
 Mais uma linha no Arquivo
+
+Alteração feita para a segunda branch
